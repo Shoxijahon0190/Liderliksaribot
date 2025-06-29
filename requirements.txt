@@ -1,2 +1,2 @@
-aiogram==2.25.1
-fpdf==1.7.2
+aiohttp==3.8.4
+fpdf==1.7.2 
